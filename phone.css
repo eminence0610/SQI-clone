@@ -1,0 +1,73 @@
+@media screen and (max-width: 475px) {
+    .co{
+        width:50px;
+        height: 50px;
+    }
+    .first{
+        padding: 0 20px;
+    }
+    .option{
+        margin: 0 20px;
+    }
+    .about{
+        padding-top: 0px;
+        padding-left: 0px;
+        color: #152a8f;
+        font-weight: 400;
+    }
+    .study{
+        font-size: 45px;
+        padding-top: 40px;
+        font-weight: 600;
+        color: #000e42;
+    }
+    .head{
+        padding-top: 30px;
+        height: 300px;
+    }
+    .learn{
+        font-size: 15px;
+        font-weight: 500;
+        color: #654747;
+    }
+    .now{
+        background-color: #00208a;
+        color: white;
+        border: none;
+        padding: 10px 30px;
+        border-radius: 10px;
+    
+    }
+    .upper{
+        margin-top: 50px;
+    }
+    .graduate{
+        display: none;
+    }
+    .glance{
+        padding: 20px 80px;
+        margin-right: -20px;
+        border-top: 2px solid #654747;
+        border-bottom: 2px solid #654747;
+    }
+    .change{
+        color: #050754;
+        font-size: 40px;
+        padding: 80px 10px 20px;
+    }
+    .diploma{
+        padding: 85px 0 20px;
+    }
+    .diplomas{
+        padding: 60px 0 20px;
+    }
+    .diplomat{
+        padding: 90px 0 20px;
+    }
+    .national{
+        color: #050754;
+        font-size: 15px;
+        padding: 30px 0;
+        font-weight: 700;
+    }
+}
